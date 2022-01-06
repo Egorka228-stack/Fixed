@@ -157,7 +157,7 @@ body{
 }
 .cir {
     position: absolute;
-    left: 600px;
+    left: 1000px;
     top: 100px;
     background: white;
     border-radius: 50%;
@@ -169,7 +169,7 @@ body{
 
 .cire{
     position: absolute;
-    left: 630px;
+    left: 1030px;
     top: 5px;
     background: white;
     border-radius: 50%;
